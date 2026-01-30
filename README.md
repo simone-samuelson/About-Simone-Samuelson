@@ -19,7 +19,19 @@
 - 🗄️ **Querying:** SQL   
 - 🔧 **Version Control:** Git 
 
+**☁️ Cloud Platforms**
+- 🟢 **Google Cloud Platform**  
+- 🔵 **Microsoft Azure**
 
+**⚙️ DevOps and Platform Engineering**
+- 🌍 **Terraform**
+- 🐳 **Docker**
+- ☸️ **Kubernetes**
+
+**📊 Big Data & Processing Frameworks**
+- 🔥 **Apache Spark**
+- 🐍 **PySpark**
+- 🌪️ **Apache Airflow** (for DAG development)
 
 
 
