@@ -15,23 +15,31 @@
 
 # 🛠️ Skills and Technologies
 **💻 Programming and Development**
-- 🐍 **Language:** Python   
-- 🗄️ **Querying:** SQL   
-- 🔧 **Version Control:** Git 
+- 🐍 Language: Python   
+- 🗄️ Querying: SQL   
+- 🔧 Version Control: Git 
 
 **☁️ Cloud Platforms**
-- 🟢 **Google Cloud Platform**  
-- 🔵 **Microsoft Azure**
+- 🟢 Google Cloud Platform
+- 🔵 Microsoft Azure
 
-**⚙️ DevOps and Platform Engineering**
-- 🌍 **Terraform**
-- 🐳 **Docker**
-- ☸️ **Kubernetes**
+**🔄 Data Engineering**
+  - 🗄️ Databases
+  - 📈 Business Intelligence
+  - ⚡ ETL/ELT Pipelines
+  - ⏱️ Batch & Real-Time Stream Processing
+
+**⚙️ DevOps and Tools**
+- 🌍 Terraform
+- 🐳 Docker
+- ☸️ Kubernetes
+- 🐙 GitHub
+- 📝 VS Code
 
 **📊 Big Data & Processing Frameworks**
-- 🔥 **Apache Spark**
-- 🐍 **PySpark**
-- 🌪️ **Apache Airflow** (for DAG development)
+- 🔥 Apache Spark
+- 🐍 PySpark
+- 🌪️ Apache Airflow (for DAG development)
 
 
 
