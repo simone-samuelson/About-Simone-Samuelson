@@ -8,10 +8,11 @@
 
 # 👱‍♀️💻 About Me
 
-. 🎓 Seven active certifications in Microsoft Azure and Google Cloud platform credentials.
-. 🛠️ 3+ years experience in platform engineering.
-. 🌱 Currently growing my skills in Data Engineering and Cloud Technologies.
-. 🔥 I enjoy solving real-world problems with technology.
+- 🎓 7 active certifications in Microsoft Azure & Google Cloud
+- 🛠️ 3+ years in Platform Engineering
+- 🌱 Expanding skills in Data Engineering & Cloud Technologies
+- 🔥 Solving real-world problems with technology
+
 
 
 
