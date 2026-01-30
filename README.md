@@ -14,10 +14,10 @@
 - 🔥 Solving real-world problems with technology
 
 # 🛠️ Skills and Technologies
-💻 Programming and Development
-- 🐍**Language: Python**   
-- 🗄️**Querying: SQL**   
-- 🔧**Version Control: Git** 
+**💻 Programming and Development**
+- 🐍 **Language:** Python   
+- 🗄️ **Querying:** SQL   
+- 🔧 **Version Control:** Git 
 
 
 
